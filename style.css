@@ -3,7 +3,7 @@
 }
 
 .wrap {
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
     text-align: center;
 }
@@ -11,7 +11,7 @@
 h1 {
     display: flex;
     justify-content: center;
-    width: 500px;
+    max-width: 500px;
     margin: 20px auto;
     padding: 10px;
     background: #cfc3bd;
