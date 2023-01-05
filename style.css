@@ -76,3 +76,14 @@ th {
 .design {
     background: #d3bbb7;
 }
+@media screen and (max-width:505px) {
+    table {
+        padding: 10px;
+    }
+    td {
+        padding: 8px;
+    }
+    th {
+        padding: 8px;
+    }
+}
